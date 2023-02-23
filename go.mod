@@ -1,3 +1,3 @@
-module github.com/api-go-rest
+module github.com/rukasugarushia/api-go-rest
 
 go 1.20
